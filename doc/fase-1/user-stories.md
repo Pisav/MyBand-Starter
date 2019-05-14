@@ -1,31 +1,25 @@
-# User stories
-
-Gebruik bijvoorbeeld het format van deze [voorbeeld spreadsheet]
-Dit mag hier ook als los spreadsheet bestand worden neergezet.
-
-[voorbeeld spreadsheet]: <https://www.mountaingoatsoftware.com/blog/a-sample-format-for-a-spreadsheet-based-product-backlog>
-
-**Bijvoorbeeld**
-
-###### Anonieme gebruikers
-
-| # | Als een ... | Wil ik ... | Zodat ik ... | Notities | Prioriteit | Status |
-| ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| U0001 | Gebruiker | de laatste nieuwberichten zien | op de hoogte kom van wat er is gebeurd | | Must have | TODO |
-| U0002 | Gebruiker | een account aanmaken | toegang krijg tot extra features | | Must have | TODO |
-
-
-###### Geregistreerde gebruikers
-| # | Als een ... | Wil ik ... | Zodat ik ... | Notities | Prioriteit | Status |
-| ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| G0001 | Geregistreerd gebruiker | mijn profiel foto kunnen aanpassen | zodat ik mezelf goed kan presenteren | | Must have | TODO |
-
-
-##### Admins
-| # | Als een ... | Wil ik ... | Zodat ik ... | Notities | Prioriteit | Status |
-| ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| B0001 | Admin | een overzicht van alle gebruikers | zodat ik deze kan beheren | | Must have | TODO |
-| B0002 | Admin | een account kunnen disablen | zodat ik controle heb over wie er in kan loggen | | Must have | TODO |
-
-
-
+| my band   | als          | wil                                                              | zodat ik vragen kan stellen                                | prioriteit | MoSCoW | tijd | done   |
+|-----------|--------------|------------------------------------------------------------------|------------------------------------------------------------|------------|--------|------|--------|
+|           |              |                                                                  |                                                            |            |        |      |        |
+| home page | De Gebruiker |  ik een goeie navigatie                                          | makkelijk de website kan bezoeken.                         | m          |        | 5    |        |
+|           | De Gebruiker |  ik de datum, titell en omschrijving van het plaatje kunnen zien | weet wat de informatie van he tplaatje is                  |            |        | 3    |        |
+|           | De Gebruiker |  ik op een afbeelding kunnen klikken                             | het plaatje mooi ingezoemd kan zien                        |            |        | 2    |        |
+|           | De Gebruiker |  ik een cookie melding zien                                      | kan zien dat de site gebruik maakt van cookies             |            |        | 3    |        |
+|           | De Gebruiker | ik een snel geladen pagina                                       | niet lang hoef te wachten op de pagina                     |            |        |      |        |
+|           | De Gebruiker | een mooie  layout/                                               | het fijn is om naar te kijken                              |            |        |      |        |
+|           | De Gebruiker | ik contact op kunnen nemen et de maker                           | zodat ik vragen kan stellen                                |            |        |      |        |
+|           |              |                                                                  |                                                            |            |        |      |        |
+|           | De beheerder | wil de inhoud van een dienst aanpassen                           | ik verandering van inhoud van de dienst dit kan aanpassen. |            |        | 0    |        |
+|           | De beheerder | wil dienst verwijderen                                           | ik diensten die ik niet meer doe kan verwijderen.          |            |        | 0    |        |
+|           | De beheerder | Wil ik alle content op de pagina kunnen aanpassen                | ik veranderingen van de inhoud kan aanpassen               |            |        | 20   |        |
+|           | de beheerder | wil ik een project kunnen verwijderen                            | ik een niet relevant project van de site kan halen         |            |        | 0    |        |
+|           | de beheerder | wil ik een project kunnen toevoegen                              | ik werk op de website kan zetten                           |            |        | ?    |        |
+|           | De beheerder | Wil een button uitkiezen voor een pagina                         |                                                            |            |        |      |        |
+|           |              |                                                                  |                                                            |            |        |      |        |
+|           | De schrijver | wil berichten toe kunnen voegen                                  | hij/zij nieuwe berichten kan toevoegen.                    |            |        | 0    |        |
+|           | De schrijver | wil een bericht kunnen bewerken                                  | hij/zij eventuele wijzigingen kan toepassen.               |            |        | 0    |        |
+|           | De schrijver | wil een bericht kunnen verwijderen                               | hij/zij het bericht kan verwijderen.                       |            |        | 0    |        |
+|           | De schrijver | wil media kunnen uploaden zoals foto's                           | hij/zij het werk kan laten zien.                           |            |        | 3    |        |
+|           | De schrijver | wil de hoofdfoto kunnen uploaden van een verhaal                 | hij/zij een duidelijk beeld bij het verhaal kan geven      |            |        | 0,5  |        |
+|           | De schrijver | wil de hoofdfoto aanpassen                                       | hij/zij een andere foto kan toevoegen.                     |            |        | 0,5  |        |
+|           | De schrijver | reacties kunnen beheren                                          | hij/zij ongepaste berichten kan verwijderen                |            |        | 0    | N.V.T. |
