@@ -1,17 +1,17 @@
 | my band   | als          | wil                                                              | zodat ik vragen kan stellen                                | prioriteit | MoSCoW | tijd | done   |
 |-----------|--------------|------------------------------------------------------------------|------------------------------------------------------------|------------|--------|------|--------|
 |           |              |                                                                  |                                                            |            |        |      |        |
-| home page | De Gebruiker |  ik een goeie navigatie                                          | makkelijk de website kan bezoeken.                         | m          |        | 5    |        |
-|           | De Gebruiker |  ik de datum, titell en omschrijving van het plaatje kunnen zien | weet wat de informatie van he tplaatje is                  |            |        | 3    |        |
-|           | De Gebruiker |  ik op een afbeelding kunnen klikken                             | het plaatje mooi ingezoemd kan zien                        |            |        | 2    |        |
-|           | De Gebruiker |  ik een cookie melding zien                                      | kan zien dat de site gebruik maakt van cookies             |            |        | 3    |        |
+| home page | De Gebruiker |  ik een goeie navigatie                                          | makkelijk de website kan bezoeken.                         | m          |        | 1    |        |
+|           | De Gebruiker |  ik de datum, titell en omschrijving van het plaatje kunnen zien | weet wat de informatie van he tplaatje is                  |            |        | 1    |        |
+|           | De Gebruiker |  ik op een afbeelding kunnen klikken                             | het plaatje mooi ingezoemd kan zien                        |            |        | 1    |        |
+|           | De Gebruiker |  ik een cookie melding zien                                      | kan zien dat de site gebruik maakt van cookies             |            |        | 1    |        |
 |           | De Gebruiker | ik een snel geladen pagina                                       | niet lang hoef te wachten op de pagina                     |            |        |      |        |
 |           | De Gebruiker | een mooie  layout/                                               | het fijn is om naar te kijken                              |            |        |      |        |
 |           | De Gebruiker | ik contact op kunnen nemen et de maker                           | zodat ik vragen kan stellen                                |            |        |      |        |
 |           |              |                                                                  |                                                            |            |        |      |        |
 |           | De beheerder | wil de inhoud van een dienst aanpassen                           | ik verandering van inhoud van de dienst dit kan aanpassen. |            |        | 0    |        |
 |           | De beheerder | wil dienst verwijderen                                           | ik diensten die ik niet meer doe kan verwijderen.          |            |        | 0    |        |
-|           | De beheerder | Wil ik alle content op de pagina kunnen aanpassen                | ik veranderingen van de inhoud kan aanpassen               |            |        | 20   |        |
+|           | De beheerder | Wil ik alle content op de pagina kunnen aanpassen                | ik veranderingen van de inhoud kan aanpassen               |            |        | 2   |        |
 |           | de beheerder | wil ik een project kunnen verwijderen                            | ik een niet relevant project van de site kan halen         |            |        | 0    |        |
 |           | de beheerder | wil ik een project kunnen toevoegen                              | ik werk op de website kan zetten                           |            |        | ?    |        |
 |           | De beheerder | Wil een button uitkiezen voor een pagina                         |                                                            |            |        |      |        |
