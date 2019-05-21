@@ -26,7 +26,7 @@ Deze fase duurt 3 weken
 | README                                            | TODO | [README.md]  (dit document)          | MarkDown |
 | B1-K1-W1 Debriefing                               | TODO | [Debriefing]                         | Markdown |
 | B1-K1-W2 Planning                                 | DOING | [Planning]                           | Markdown |
-| B1-K1-W2 Plan van aanpak                          | DONE | [Plan van Aanpak]                    | Markdown of Word/RTF|
+| B1-K1-W2 Plan van aanpak                          | DOING | [Plan van Aanpak]                    | Markdown of Word/RTF|
 | B1-K1-W2 User stories                             | DONE | [User Stories]                       | Markdown of Word/RTF|
 | B1-K1-W2 Functioneel ontwerp                      | DOING | [FO]                                 | Markdown of Word/RTF|
 | B1-K1-W2 Flowchart                                | DOING | [Flow]                               | Afbeelding(en) of geexporteerd uit http://draw.io |
