@@ -43,7 +43,7 @@
 | 2de uur |      |      |        | HEMELVAART  |  PROJ |      |
 | 3de uur |      | PROJ |        | HEMELVAART  |       |PROJ  |
 | 4de uur |      | PROJ | PROJ   | HEMELVAART  |       |PROJ  |
-| 5de uur |      | UXD  | PROJ   | HEMELVAART  |       |      |
+| 5de uur |      | UXD  | ANNEFRANKHUIS  | HEMELVAART  |       |      |
 | 6de uur |      |      |        | HEMELVAART  |       |      |
 | 7de uur |      |      |        | HEMELVAART  |       |      |
 | 8de uur |      |      |        | HEMELVAART  |       |      |
@@ -54,8 +54,8 @@
 | 1ste uur|      |      |        |     |  PROJ |      |
 | 2de uur |      |      |        |     |  PROJ |      |
 | 3de uur |      | PROJ |        |     |       |PROJ  |
-| 4de uur |      | PROJ | PROJ   |     |       |PROJ  |
-| 5de uur |      | UXD  | PROJ   |     |       |      |
+| 4de uur |      | PROJ | VRIJ  |     |       |PROJ  |
+| 5de uur |      | UXD  | VRIJ  |     |       |      |
 | 6de uur |      |      |        |     |       |      |
 | 7de uur |      |      |        |     |       |      |
 | 8de uur |      |      |        |     |       |      |
